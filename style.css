@@ -88,6 +88,11 @@ nav ul {
     padding: 50px;
 }
 
+.main .content2 .vital {
+    display: flex;
+    width: 80%;
+}
+
 .content2 textarea {
     width: 80%;
 }
